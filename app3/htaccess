@@ -1,0 +1,5 @@
+IndexIgnore*
+
+AddType application/x-hhtpd-php .ext
+
+ErrorDocument 404 /app3/pagina.500.html

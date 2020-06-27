@@ -1,0 +1,8 @@
+<?php
+echo "Componentes:"
+?>
+<h1> Ingeniería Web </h1>
+<h1> Gestión de la Tecnología de la Información </h1>
+<h1> Redes </h1>
+<h1> Matlab </h1>
+<h1> Gestión Productiva </h1>
